@@ -16,7 +16,7 @@ preloadVideos(videoUrls);
 Shery.mouseFollower();
 
 Shery.hoverWithMediaCircle(".target" , {
-    images:["https://i.postimg.cc/QMYPc2MT/weichen.jpg","", "https://img.freepik.com/premium-photo/colorful-abstract-background-with-lots-different-colored-shapes-colors-it-generative-ai_97167-9340.jpg", ""],
+    images:["https://i.postimg.cc/LXd44fpm/weichen.jpg","", "https://img.freepik.com/premium-photo/colorful-abstract-background-with-lots-different-colored-shapes-colors-it-generative-ai_97167-9340.jpg", ""],
   });
 
 
